@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 Ari here!
+
+Checkout my portfolio:
+[My Portfolio](https://ismailadadas.github.io/portfolio/)
 
 <!--
 **ismailadadas/ismailadadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
