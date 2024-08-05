@@ -1,6 +1,6 @@
 ## Hi there 👋 Ari here!
 
-Checkout my portfolio:
+Checkout 
 [My Portfolio](https://ismailadadas.github.io/portfolio/)
 
 <!--
